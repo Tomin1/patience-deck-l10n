@@ -124,7 +124,7 @@
         <location filename="../qml/pages/about/AboutPage.qml" line="204"/>
         <source>Aisleriot translator information for language</source>
         <extracomment>Section to show Aisleriot translator/translation information, substitute word language with the name of the language of the translation. Original is pretty generic on purpose, feel free to translate this to something works for the result</extracomment>
-        <translation>Informacje o tłumaczu Aisleriot dla języka</translation>
+        <translation>Informacje o tłumaczu Aisleriot dla języka polskiego</translation>
     </message>
     <message id="patience-la-free_software_and_redistribution_multiple_licenses">
         <location filename="../qml/pages/about/LicensesPage.qml" line="32"/>
