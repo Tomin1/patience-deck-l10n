@@ -3,4 +3,5 @@
 # leave a newline at the end.
 LANGUAGES = \
         fi \
+        pl \
 
