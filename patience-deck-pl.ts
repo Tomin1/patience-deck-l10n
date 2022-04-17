@@ -4,124 +4,124 @@
 <context>
     <name></name>
     <message id="patience-bt-contributors">
-        <location filename="../qml/pages/about/AboutPage.qml" line="31"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="91"/>
         <source>Contributors</source>
-        <extracomment>Button to open the list of Patience Deck contributors (not implemented yet)</extracomment>
+        <extracomment>Button to open the list of Patience Deck contributors</extracomment>
         <translation>Współtwórcy</translation>
     </message>
     <message id="patience-he-contributors">
-        <location filename="../qml/pages/about/AboutPage.qml" line="34"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="178"/>
         <source>Contributors of Patience Deck</source>
         <oldsource>Contributors</oldsource>
-        <extracomment>Page header for the list of Patience Deck contributors (not implemented yet)</extracomment>
+        <extracomment>Page header for the list of Patience Deck contributors</extracomment>
         <translation>Współtwórcy Patience Deck</translation>
     </message>
     <message id="patience-se-developers">
-        <location filename="../qml/pages/about/AboutPage.qml" line="37"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="184"/>
         <source>Developers</source>
-        <extracomment>Section header for list of developers of Patience Deck (not implemented yet)</extracomment>
+        <extracomment>Section header for list of developers of Patience Deck</extracomment>
         <translation>Deweloperzy</translation>
     </message>
     <message id="patience-se-translators">
-        <location filename="../qml/pages/about/AboutPage.qml" line="40"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="197"/>
         <source>Translators</source>
-        <extracomment>Section header for list of translators of Patience Deck (not implemented yet)</extracomment>
+        <extracomment>Section header for list of translators of Patience Deck</extracomment>
         <translation>Tłumacze</translation>
     </message>
     <message id="patience-he-about">
-        <location filename="../qml/pages/about/AboutPage.qml" line="54"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="40"/>
         <source>About</source>
         <translation>O programie</translation>
     </message>
     <message id="patience-de-patience_deck">
-        <location filename="../qml/pages/about/AboutPage.qml" line="57"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="43"/>
         <source>Patience Deck %1</source>
         <extracomment>Name of this application, %1 is version number</extracomment>
         <translation>Patience Deck %1</translation>
     </message>
     <message id="patience-la-about_text">
-        <location filename="../qml/pages/about/AboutPage.qml" line="80"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="66"/>
         <source>Patience Deck is a collection of %1 supported patience games for Sailfish OS. It reimplements game engine from &lt;a href=%2&gt;GNOME Aisleriot&lt;/a&gt; and utilises its implementations of patience games including translations, manual pages and artwork.</source>
         <oldsource>Patience Deck is a collection of %1 supported patience games for Sailfish OS. It reimplements game engine from &lt;a href=%2&gt;GNOME Aisleriot&lt;/a&gt; and utilises its implementations of patience games including manual pages and artwork.</oldsource>
         <translatorcomment>OS avattu käyttöjärjestelmäksi, koska sille ei ole hyvää lyhennystä suomeksi</translatorcomment>
         <translation>Patience Deck to zbiór %1 gier typu Pasjans dla systemu Sailfish OS. Wykorzystuje silnik gier z &lt;a href=%2&gt;GNOME Aisleriot&lt;/a&gt; i wykorzystuje jego implementację pasjansów, w tym tłumaczenia, strony podręcznika i grafiki.</translation>
     </message>
     <message id="patience-se-development">
-        <location filename="../qml/pages/about/AboutPage.qml" line="89"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="75"/>
         <source>Development</source>
         <extracomment>Section to list developers and link to github</extracomment>
         <translation>Rozwój</translation>
     </message>
     <message id="patience-la-see_also_manuals">
-        <location filename="../qml/pages/about/AboutPage.qml" line="94"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="189"/>
         <source>Main developer: %1</source>
         <translation>Główny deweloper: %1</translation>
     </message>
     <message id="patience-la-source_code_report_bugs_github">
-        <location filename="../qml/pages/about/AboutPage.qml" line="102"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="81"/>
         <source>You may obtain source code and report bugs on Github: &lt;a href=%2&gt;%1&lt;/a&gt;</source>
         <translation>Możesz uzyskać kod źródłowy i zgłosić błędy na Github: &lt;a href=%2&gt;%1&lt;/a&gt;</translation>
     </message>
     <message id="patience-se-acknowledgements">
-        <location filename="../qml/pages/about/AboutPage.qml" line="111"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="99"/>
         <source>Acknowledgements</source>
         <extracomment>Thank you section for developers of GNOME Aisleriot</extracomment>
         <translation>Podziękowania</translation>
     </message>
     <message id="patience-la-thank_you_gnome_aisleriot_authors">
-        <location filename="../qml/pages/about/AboutPage.qml" line="117"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="105"/>
         <source>Thank you to all GNOME Aisleriot authors for making such high quality games to enjoy! This project would not be possible without your work!</source>
         <translation>Dziękujemy wszystkim autorom GNOME Aisleriot za tworzenie tak wysokiej jakości gier. Ten projekt nie byłby możliwy bez Waszej pracy!</translation>
     </message>
     <message id="patience-bt-authors">
-        <location filename="../qml/pages/about/AboutPage.qml" line="123"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="111"/>
         <source>Authors</source>
         <translation>Autorzy</translation>
     </message>
     <message id="patience-se-license">
-        <location filename="../qml/pages/about/AboutPage.qml" line="131"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="119"/>
         <source>License</source>
         <extracomment>Section that mentions license(s) of Patience Deck</extracomment>
         <translation>Licencja</translation>
     </message>
     <message id="patience-la-free_software_and_redistribution">
-        <location filename="../qml/pages/about/AboutPage.qml" line="139"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="127"/>
         <source>Patience Deck is free software, and you are welcome to redistribute it under certain conditions. This software comes with ABSOLUTELY NO WARRANTY. Tap the button below for more details.</source>
         <translation>Patience Deck to darmowe oprogramowanie, które możesz rozpowszechniać pod pewnymi warunkami. To oprogramowanie nie jest objęte ABSOLUTNIE ŻADNĄ GWARANCJĄ. Kliknij przycisk poniżej, aby uzyskać więcej informacji.</translation>
     </message>
     <message id="patience-bt-licenses">
-        <location filename="../qml/pages/about/AboutPage.qml" line="145"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="133"/>
         <source>Licenses</source>
         <translation>Licencje</translation>
     </message>
     <message id="patience-se-experimental">
-        <location filename="../qml/pages/about/AboutPage.qml" line="153"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="141"/>
         <source>Experimental</source>
         <extracomment>Section for enabling experimental features</extracomment>
         <translation>Funkcje eksperymentalne</translation>
     </message>
     <message id="patience-la-show_all_games">
-        <location filename="../qml/pages/about/AboutPage.qml" line="158"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="146"/>
         <source>Show all games</source>
         <translation>Pokaż wszystkie gry</translation>
     </message>
     <message id="patience-de-list_unsupported_games">
-        <location filename="../qml/pages/about/AboutPage.qml" line="160"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="148"/>
         <source>List also unsupported games in game selection</source>
         <translation>Wyświetl również nieobsługiwane gry w wyborze gier</translation>
     </message>
     <message id="patience-he-thanks_to">
-        <location filename="../qml/pages/about/AboutPage.qml" line="189"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="229"/>
         <source>Thanks to</source>
         <translation>Podziękowania dla</translation>
     </message>
     <message id="patience-de-aisleriot_authors">
-        <location filename="../qml/pages/about/AboutPage.qml" line="191"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="231"/>
         <source>GNOME Aisleriot authors</source>
         <translation>autorów GNOME Aisleriot</translation>
     </message>
     <message id="patience-se-translator-information">
-        <location filename="../qml/pages/about/AboutPage.qml" line="204"/>
+        <location filename="../qml/pages/about/AboutPage.qml" line="244"/>
         <source>Aisleriot translator information for language</source>
         <extracomment>Section to show Aisleriot translator/translation information, substitute word language with the name of the language of the translation. Original is pretty generic on purpose, feel free to translate this to something works for the result</extracomment>
         <translation>Informacje o tłumaczu Aisleriot dla języka polskiego</translation>
@@ -177,17 +177,17 @@
         <translation>Restart</translation>
     </message>
     <message id="patience-me-about">
-        <location filename="../qml/pages/Game.qml" line="101"/>
+        <location filename="../qml/pages/Game.qml" line="93"/>
         <source>About</source>
         <translation>O programie</translation>
     </message>
     <message id="patience-me-select_game">
-        <location filename="../qml/pages/Game.qml" line="107"/>
+        <location filename="../qml/pages/Game.qml" line="99"/>
         <source>Select game</source>
         <translation>Wybierz grę</translation>
     </message>
     <message id="patience-me-game_options">
-        <location filename="../qml/pages/Game.qml" line="114"/>
+        <location filename="../qml/pages/Game.qml" line="106"/>
         <source>Options &amp; Rules</source>
         <translation>Opcje i Zasady</translation>
     </message>
