@@ -4,4 +4,4 @@
 LANGUAGES = \
         fi \
         pl \
-
+        sv \
