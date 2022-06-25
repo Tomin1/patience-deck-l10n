@@ -222,22 +222,32 @@
         <translation>Säännöt</translation>
     </message>
     <message id="patience-he-games">
-        <location filename="../qml/pages/SelectGame.qml" line="32"/>
+        <location filename="../qml/pages/SelectGame.qml" line="35"/>
         <source>Games</source>
         <translation>Pelit</translation>
     </message>
+    <message id="patience-ph-search_games">
+        <location filename="../qml/pages/SelectGame.qml" line="41"/>
+        <source>Type to search games</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message id="patience-se-last_played">
-        <location filename="../qml/pages/SelectGame.qml" line="65"/>
+        <location filename="../qml/pages/SelectGame.qml" line="78"/>
         <source>Last played</source>
         <translation>Viimeksi pelatut</translation>
     </message>
     <message id="patience-se-favourites">
-        <location filename="../qml/pages/SelectGame.qml" line="68"/>
+        <location filename="../qml/pages/SelectGame.qml" line="81"/>
         <source>Favourites</source>
         <translation>Suosikit</translation>
     </message>
+    <message id="patience-se-search_results">
+        <location filename="../qml/pages/SelectGame.qml" line="84"/>
+        <source>Search results</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message id="patience-se-all_games">
-        <location filename="../qml/pages/SelectGame.qml" line="71"/>
+        <location filename="../qml/pages/SelectGame.qml" line="87"/>
         <source>All games</source>
         <translation>Kaikki pelit</translation>
     </message>
