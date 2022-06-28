@@ -229,7 +229,7 @@
     <message id="patience-ph-search_games">
         <location filename="../qml/pages/SelectGame.qml" line="41"/>
         <source>Type to search games</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpisz, by wyszukać gry</translation>
     </message>
     <message id="patience-se-last_played">
         <location filename="../qml/pages/SelectGame.qml" line="78"/>
@@ -244,7 +244,7 @@
     <message id="patience-se-search_results">
         <location filename="../qml/pages/SelectGame.qml" line="84"/>
         <source>Search results</source>
-        <translation type="unfinished"></translation>
+        <translation>Wynik wyszukiwania</translation>
     </message>
     <message id="patience-se-all_games">
         <location filename="../qml/pages/SelectGame.qml" line="87"/>
@@ -293,7 +293,7 @@
         <location filename="../qml/pages/SettingsPage.qml" line="168"/>
         <source>Card style</source>
         <extracomment>Combo box for selecting card style</extracomment>
-        <translation>Styl kard</translation>
+        <translation>Styl kart</translation>
     </message>
     <message id="patience-la-card_style_regular">
         <location filename="../qml/pages/SettingsPage.qml" line="178"/>
