@@ -229,7 +229,7 @@
     <message id="patience-ph-search_games">
         <location filename="../qml/pages/SelectGame.qml" line="41"/>
         <source>Type to search games</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjoita etsiäksesi pelejä</translation>
     </message>
     <message id="patience-se-last_played">
         <location filename="../qml/pages/SelectGame.qml" line="78"/>
@@ -244,7 +244,7 @@
     <message id="patience-se-search_results">
         <location filename="../qml/pages/SelectGame.qml" line="84"/>
         <source>Search results</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakutulokset</translation>
     </message>
     <message id="patience-se-all_games">
         <location filename="../qml/pages/SelectGame.qml" line="87"/>
