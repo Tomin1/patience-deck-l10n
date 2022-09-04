@@ -223,32 +223,32 @@
         <translation>Regler</translation>
     </message>
     <message id="patience-he-games">
-        <location filename="../qml/pages/SelectGame.qml" line="35"/>
+        <location filename="../qml/pages/SelectGame.qml" line="36"/>
         <source>Games</source>
         <translation>Spel</translation>
     </message>
     <message id="patience-ph-search_games">
-        <location filename="../qml/pages/SelectGame.qml" line="41"/>
+        <location filename="../qml/pages/SelectGame.qml" line="42"/>
         <source>Type to search games</source>
         <translation>Skriv för att söka efter spel</translation>
     </message>
     <message id="patience-se-last_played">
-        <location filename="../qml/pages/SelectGame.qml" line="78"/>
+        <location filename="../qml/pages/SelectGame.qml" line="94"/>
         <source>Last played</source>
         <translation>Senast spelat</translation>
     </message>
     <message id="patience-se-favourites">
-        <location filename="../qml/pages/SelectGame.qml" line="81"/>
+        <location filename="../qml/pages/SelectGame.qml" line="97"/>
         <source>Favourites</source>
         <translation>Favoriter</translation>
     </message>
     <message id="patience-se-search_results">
-        <location filename="../qml/pages/SelectGame.qml" line="84"/>
+        <location filename="../qml/pages/SelectGame.qml" line="100"/>
         <source>Search results</source>
         <translation>Sökresultat</translation>
     </message>
     <message id="patience-se-all_games">
-        <location filename="../qml/pages/SelectGame.qml" line="87"/>
+        <location filename="../qml/pages/SelectGame.qml" line="103"/>
         <source>All games</source>
         <translation>Alla spel</translation>
     </message>
