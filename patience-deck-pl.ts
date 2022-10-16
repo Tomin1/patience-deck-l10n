@@ -44,7 +44,7 @@
         <source>Patience Deck is a collection of %1 patience games for Sailfish OS. It reimplements game engine from &lt;a href=%2&gt;GNOME Aisleriot&lt;/a&gt; and utilises its implementations of patience games including translations, manual pages and artwork.</source>
         <oldsource>Patience Deck is a collection of %1 supported patience games for Sailfish OS. It reimplements game engine from &lt;a href=%2&gt;GNOME Aisleriot&lt;/a&gt; and utilises its implementations of patience games including translations, manual pages and artwork.</oldsource>
         <translatorcomment>OS avattu käyttöjärjestelmäksi, koska sille ei ole hyvää lyhennystä suomeksi</translatorcomment>
-        <translation type="unfinished">Patience Deck to zbiór %1 gier typu Pasjans dla systemu Sailfish OS. Wykorzystuje silnik gier z &lt;a href=%2&gt;GNOME Aisleriot&lt;/a&gt; i wykorzystuje jego implementację pasjansów, w tym tłumaczenia, strony podręcznika i grafiki.</translation>
+        <translation>Patience Deck to zbiór %1 gier typu Pasjans dla systemu Sailfish OS. Wykorzystuje silnik gier z &lt;a href=%2&gt;GNOME Aisleriot&lt;/a&gt; i wykorzystuje jego implementację pasjansów, w tym tłumaczenia, strony podręcznika i grafiki.</translation>
     </message>
     <message id="patience-se-development">
         <location filename="../qml/pages/about/AboutPage.qml" line="76"/>
@@ -299,12 +299,12 @@
     <message id="patience-la-card_back_color">
         <location filename="../qml/pages/SettingsPage.qml" line="211"/>
         <source>Card back colour</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor rewersu karty</translation>
     </message>
     <message id="patience-la-card_suit_colors">
         <location filename="../qml/pages/SettingsPage.qml" line="252"/>
         <source>Card suit colours</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor karty</translation>
     </message>
     <message id="patience-se-gameplay">
         <location filename="../qml/pages/SettingsPage.qml" line="285"/>
@@ -315,60 +315,60 @@
         <location filename="../qml/pages/SettingsPage.qml" line="295"/>
         <source>Toolbar position</source>
         <extracomment>Combo box to select toolbar placement on landscape orientation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Położenie paska narzędzi</translation>
     </message>
     <message id="patience-de-set_toolbar_placement_on_landscape_orientation">
         <location filename="../qml/pages/SettingsPage.qml" line="298"/>
         <source>Set toolbar placement on landscape orientation</source>
         <extracomment>Description text for combo box</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw położenie paska narzędzi w orientacji poziomej</translation>
     </message>
     <message id="patience-la-orientation_dependent">
         <location filename="../qml/pages/SettingsPage.qml" line="304"/>
         <source>Orientation dependent</source>
         <extracomment>Put the toolbar on the &quot;top&quot; side of the device, meaning that it can be on left or right depending on orientation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Położenie zależne od orientacji ekranu</translation>
     </message>
     <message id="patience-la-always_on_left">
         <location filename="../qml/pages/SettingsPage.qml" line="309"/>
         <source>Always on left</source>
         <extracomment>Toolbar is always on left side when device is on landscape orientation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zawsze z lewej</translation>
     </message>
     <message id="patience-la-always_on_right">
         <location filename="../qml/pages/SettingsPage.qml" line="314"/>
         <source>Always on right</source>
         <extracomment>Toolbar is always on right side when device is on landscape orientation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zawsze z prawej</translation>
     </message>
     <message id="patience-la-automated_move_delay">
         <location filename="../qml/pages/SettingsPage.qml" line="330"/>
         <source>Auto move delay</source>
         <extracomment>Combo box to select delay for game engine itself moving cards between moves</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Opóźnienie automatycznych ruchów</translation>
     </message>
     <message id="patience-de-set_how_quickly_automatic_moves_repeat">
         <location filename="../qml/pages/SettingsPage.qml" line="332"/>
         <source>Set how quickly automatic moves repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw szybkość automatycznego powtarzania ruchów</translation>
     </message>
     <message id="patience-la-instant_delay">
         <location filename="../qml/pages/SettingsPage.qml" line="337"/>
         <source>Instant</source>
         <extracomment>No delay for moves from game engine, moves happen instantly</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Błyskawicznie</translation>
     </message>
     <message id="patience-la-quick_delay">
         <location filename="../qml/pages/SettingsPage.qml" line="343"/>
         <source>Quick</source>
         <extracomment>Very short delay for moves from game engine, moves happen quickly</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Szybko</translation>
     </message>
     <message id="patience-la-slow_delay">
         <location filename="../qml/pages/SettingsPage.qml" line="349"/>
         <source>Slow</source>
         <extracomment>Very long delay for moves from game engine, moves happen slowly</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Powoli</translation>
     </message>
     <message id="patience-la-prevent_display_blanking">
         <location filename="../qml/pages/SettingsPage.qml" line="364"/>
@@ -413,7 +413,7 @@
     <message id="patience-bt-magnify">
         <location filename="../qml/toolbar/Toolbar.qml" line="539"/>
         <source>Magnify</source>
-        <translation type="unfinished"></translation>
+        <translation>Powiększ</translation>
     </message>
     <message id="patience-la-score">
         <location filename="../qml/components/GameStats.qml" line="33"/>
