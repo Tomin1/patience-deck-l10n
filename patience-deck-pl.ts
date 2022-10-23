@@ -12,7 +12,6 @@
     <message id="patience-he-contributors">
         <location filename="../qml/pages/about/AboutPage.qml" line="163"/>
         <source>Contributors of Patience Deck</source>
-        <oldsource>Contributors</oldsource>
         <extracomment>Page header for the list of Patience Deck contributors</extracomment>
         <translation>Współtwórcy Patience Deck</translation>
     </message>
@@ -42,7 +41,6 @@
     <message id="patience-la-about_text">
         <location filename="../qml/pages/about/AboutPage.qml" line="67"/>
         <source>Patience Deck is a collection of %1 patience games for Sailfish OS. It reimplements game engine from &lt;a href=%2&gt;GNOME Aisleriot&lt;/a&gt; and utilises its implementations of patience games including translations, manual pages and artwork.</source>
-        <oldsource>Patience Deck is a collection of %1 supported patience games for Sailfish OS. It reimplements game engine from &lt;a href=%2&gt;GNOME Aisleriot&lt;/a&gt; and utilises its implementations of patience games including translations, manual pages and artwork.</oldsource>
         <translatorcomment>OS avattu käyttöjärjestelmäksi, koska sille ei ole hyvää lyhennystä suomeksi</translatorcomment>
         <translation>Patience Deck to zbiór %1 gier typu Pasjans dla systemu Sailfish OS. Wykorzystuje silnik gier z &lt;a href=%2&gt;GNOME Aisleriot&lt;/a&gt; i wykorzystuje jego implementację pasjansów, w tym tłumaczenia, strony podręcznika i grafiki.</translation>
     </message>
