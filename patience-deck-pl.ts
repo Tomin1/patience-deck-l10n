@@ -154,7 +154,7 @@
     </message>
     <message id="patience-bt-restart">
         <location filename="../qml/components/GameOverOverlay.qml" line="105"/>
-        <location filename="../qml/toolbar/Toolbar.qml" line="528"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="541"/>
         <source>Restart</source>
         <translation>Restart</translation>
     </message>
@@ -389,41 +389,41 @@
         <translation>Wibruje podczas upuszczania kart i klikania</translation>
     </message>
     <message id="patience-bt-undo">
-        <location filename="../qml/toolbar/Toolbar.qml" line="479"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="492"/>
         <source>Undo</source>
         <translation>Cofnij</translation>
     </message>
     <message id="patience-bt-redo">
-        <location filename="../qml/toolbar/Toolbar.qml" line="491"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="504"/>
         <source>Redo</source>
         <translation>Powtórz</translation>
     </message>
     <message id="patience-bt-hint">
-        <location filename="../qml/toolbar/Toolbar.qml" line="503"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="516"/>
         <source>Hint</source>
         <translation>Wskazówka</translation>
     </message>
     <message id="patience-bt-deal">
-        <location filename="../qml/toolbar/Toolbar.qml" line="515"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="528"/>
         <source>Deal</source>
         <translation>Rozdaj</translation>
     </message>
     <message id="patience-bt-magnify">
-        <location filename="../qml/toolbar/Toolbar.qml" line="539"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="552"/>
         <source>Magnify</source>
         <translation>Powiększ</translation>
     </message>
     <message id="patience-la-score">
         <location filename="../qml/components/GameStats.qml" line="33"/>
-        <location filename="../qml/toolbar/Toolbar.qml" line="589"/>
-        <location filename="../qml/toolbar/Toolbar.qml" line="653"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="602"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="666"/>
         <source>Score:</source>
         <translation>Wynik:</translation>
     </message>
     <message id="patience-la-time">
         <location filename="../qml/components/GameStats.qml" line="39"/>
-        <location filename="../qml/toolbar/Toolbar.qml" line="615"/>
-        <location filename="../qml/toolbar/Toolbar.qml" line="667"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="628"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="680"/>
         <source>Time:</source>
         <translation>Czas:</translation>
     </message>
