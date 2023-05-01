@@ -148,28 +148,29 @@
     <message id="patience-bt-new_game">
         <location filename="../qml/components/GameOverOverlay.qml" line="97"/>
         <location filename="../qml/pages/OptionsAndRules.qml" line="79"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="568"/>
         <source>New game</source>
         <extracomment>Starts a new game</extracomment>
         <translation>Uusi peli</translation>
     </message>
     <message id="patience-bt-restart">
         <location filename="../qml/components/GameOverOverlay.qml" line="105"/>
-        <location filename="../qml/toolbar/Toolbar.qml" line="541"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="556"/>
         <source>Restart</source>
         <translation>Aloita alusta</translation>
     </message>
     <message id="patience-me-about">
-        <location filename="../qml/pages/Game.qml" line="114"/>
+        <location filename="../qml/pages/Game.qml" line="132"/>
         <source>About</source>
         <translation>Tietoja</translation>
     </message>
     <message id="patience-me-select_game">
-        <location filename="../qml/pages/Game.qml" line="120"/>
+        <location filename="../qml/pages/Game.qml" line="138"/>
         <source>Select game</source>
         <translation>Valitse peli</translation>
     </message>
     <message id="patience-me-game_options">
-        <location filename="../qml/pages/Game.qml" line="127"/>
+        <location filename="../qml/pages/Game.qml" line="145"/>
         <source>Options &amp; Rules</source>
         <translation>Valinnat ja säännöt</translation>
     </message>
@@ -389,41 +390,41 @@
         <translation>Värise tiputtaessa ja klikatessa</translation>
     </message>
     <message id="patience-bt-undo">
-        <location filename="../qml/toolbar/Toolbar.qml" line="492"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="499"/>
         <source>Undo</source>
         <translation>Peru</translation>
     </message>
     <message id="patience-bt-redo">
-        <location filename="../qml/toolbar/Toolbar.qml" line="504"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="519"/>
         <source>Redo</source>
         <translation>Tee uudelleen</translation>
     </message>
     <message id="patience-bt-hint">
-        <location filename="../qml/toolbar/Toolbar.qml" line="516"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="531"/>
         <source>Hint</source>
         <translation>Vihje</translation>
     </message>
     <message id="patience-bt-deal">
-        <location filename="../qml/toolbar/Toolbar.qml" line="528"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="543"/>
         <source>Deal</source>
         <translation>Jaa</translation>
     </message>
     <message id="patience-bt-magnify">
-        <location filename="../qml/toolbar/Toolbar.qml" line="552"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="579"/>
         <source>Magnify</source>
         <translation>Suurenna</translation>
     </message>
     <message id="patience-la-score">
         <location filename="../qml/components/GameStats.qml" line="33"/>
-        <location filename="../qml/toolbar/Toolbar.qml" line="602"/>
-        <location filename="../qml/toolbar/Toolbar.qml" line="666"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="629"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="693"/>
         <source>Score:</source>
         <translation>Pisteet:</translation>
     </message>
     <message id="patience-la-time">
         <location filename="../qml/components/GameStats.qml" line="39"/>
-        <location filename="../qml/toolbar/Toolbar.qml" line="628"/>
-        <location filename="../qml/toolbar/Toolbar.qml" line="680"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="655"/>
+        <location filename="../qml/toolbar/Toolbar.qml" line="707"/>
         <source>Time:</source>
         <translation>Aika:</translation>
     </message>
