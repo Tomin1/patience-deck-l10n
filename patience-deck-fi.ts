@@ -42,7 +42,7 @@
         <location filename="../qml/pages/about/AboutPage.qml" line="67"/>
         <source>Patience Deck is a collection of %1 patience games for Sailfish OS. It reimplements game engine from &lt;a href=%2&gt;GNOME Aisleriot&lt;/a&gt; and utilises its implementations of patience games including translations, manual pages and artwork.</source>
         <translatorcomment>OS avattu käyttöjärjestelmäksi, koska sille ei ole hyvää lyhennystä suomeksi</translatorcomment>
-        <translation>Patience Deck on %1:n pasianssipelin kokoelma Sailfish-käyttöjärjestelmälle. Se toteuttaa uudelleen pelimoottorin &lt;a href=%2&gt;GNOME Aisleriotista&lt;/a&gt; ja käyttää sen toteutuksia pasiansseista, mukaan lukien käännöksiä, manuaalisivuja ja kuvituksia.</translation>
+        <translation>Patience Deck on %1 pasianssipelin kokoelma Sailfish-käyttöjärjestelmälle. Se toteuttaa uudelleen pelimoottorin &lt;a href=%2&gt;GNOME Aisleriotista&lt;/a&gt; ja käyttää sen toteutuksia pasiansseista, mukaan lukien käännöksiä, manuaalisivuja ja kuvituksia.</translation>
     </message>
     <message id="patience-se-development">
         <location filename="../qml/pages/about/AboutPage.qml" line="76"/>
@@ -303,7 +303,7 @@
     <message id="patience-la-card_suit_colors">
         <location filename="../qml/pages/SettingsPage.qml" line="252"/>
         <source>Card suit colours</source>
-        <translation>Kortin maan väri</translation>
+        <translation>Kortin maiden värit</translation>
     </message>
     <message id="patience-se-gameplay">
         <location filename="../qml/pages/SettingsPage.qml" line="285"/>
@@ -320,7 +320,7 @@
         <location filename="../qml/pages/SettingsPage.qml" line="298"/>
         <source>Set toolbar placement on landscape orientation</source>
         <extracomment>Description text for combo box</extracomment>
-        <translation>Aseta työkalurivin paikka vaakasuunnassa</translation>
+        <translation>Aseta työkalurivin paikka vaaka-asennossa</translation>
     </message>
     <message id="patience-la-orientation_dependent">
         <location filename="../qml/pages/SettingsPage.qml" line="304"/>
