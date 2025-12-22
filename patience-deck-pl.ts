@@ -160,17 +160,17 @@
         <translation>Restart</translation>
     </message>
     <message id="patience-me-about">
-        <location filename="../qml/pages/Game.qml" line="132"/>
+        <location filename="../qml/pages/Game.qml" line="134"/>
         <source>About</source>
         <translation>O programie</translation>
     </message>
     <message id="patience-me-select_game">
-        <location filename="../qml/pages/Game.qml" line="138"/>
+        <location filename="../qml/pages/Game.qml" line="140"/>
         <source>Select game</source>
         <translation>Wybierz grę</translation>
     </message>
     <message id="patience-me-game_options">
-        <location filename="../qml/pages/Game.qml" line="145"/>
+        <location filename="../qml/pages/Game.qml" line="147"/>
         <source>Options &amp; Rules</source>
         <translation>Opcje i Zasady</translation>
     </message>

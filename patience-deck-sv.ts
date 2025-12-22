@@ -159,17 +159,17 @@
         <translation>Starta om</translation>
     </message>
     <message id="patience-me-about">
-        <location filename="../qml/pages/Game.qml" line="132"/>
+        <location filename="../qml/pages/Game.qml" line="134"/>
         <source>About</source>
         <translation>Om</translation>
     </message>
     <message id="patience-me-select_game">
-        <location filename="../qml/pages/Game.qml" line="138"/>
+        <location filename="../qml/pages/Game.qml" line="140"/>
         <source>Select game</source>
         <translation>Välj spel</translation>
     </message>
     <message id="patience-me-game_options">
-        <location filename="../qml/pages/Game.qml" line="145"/>
+        <location filename="../qml/pages/Game.qml" line="147"/>
         <source>Options &amp; Rules</source>
         <translation>Alternativ &amp; regler</translation>
     </message>
